@@ -1,0 +1,14 @@
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/bin/Debug/net10.0/HelloWorkshop
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/bin/Debug/net10.0/HelloWorkshop.deps.json
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/bin/Debug/net10.0/HelloWorkshop.runtimeconfig.json
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/bin/Debug/net10.0/HelloWorkshop.dll
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/bin/Debug/net10.0/HelloWorkshop.pdb
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/obj/Debug/net10.0/HelloWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/obj/Debug/net10.0/HelloWorkshop.AssemblyInfoInputs.cache
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/obj/Debug/net10.0/HelloWorkshop.AssemblyInfo.cs
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/obj/Debug/net10.0/HelloWorkshop.csproj.CoreCompileInputs.cache
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/obj/Debug/net10.0/HelloWorkshop.dll
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/obj/Debug/net10.0/refint/HelloWorkshop.dll
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/obj/Debug/net10.0/HelloWorkshop.pdb
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/obj/Debug/net10.0/HelloWorkshop.genruntimeconfig.cache
+/home/rydzak/PJATK/WARP/Lab_01/HelloWorkshop/obj/Debug/net10.0/ref/HelloWorkshop.dll
